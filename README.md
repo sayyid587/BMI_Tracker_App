@@ -45,7 +45,7 @@ Semua hasil akhir (aset) dari fase desain, Style Guide dan anotasi lengkap dari 
 Video rekaman layar yang mendemonstrasikan alur prototype Figma, dari membuka aplikasi hingga ujicoba hitung berat badan.
 
 link URL YOUTUBE:
-[https://youtu.be/GBfHzqG3zK0?si=WPdrtcCJZjAXMEwO](https://youtu.be/lqH_wZOQdR0)
+[https://youtu.be/lqH_wZOQdR0](https://youtu.be/KF4BCbQV6TA)
 
 
 **(SplashScreen & Prototype.mp4)**
