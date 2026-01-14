@@ -32,14 +32,6 @@ Proyek ini adalah implementasi dari 6 poin soal UTS, yang mencakup:
 
 ---
 
-# Aset Desain
-
-Semua hasil akhir (aset) dari fase desain, Style Guide dan anotasi lengkap dari setiap frame Desain UI proyek ini ada di dalam repository ini: 
-
-**(Spesifikasi_Desain_UI.pdf)**
-
----
-
 # Video Prototype UX (.mp4):
 
 Video rekaman layar yang mendemonstrasikan alur prototype Figma, dari membuka aplikasi hingga ujicoba hitung berat badan.
