@@ -49,6 +49,7 @@ link URL YOUTUBE:
 gambar Desain UI final (high-fidelity) dalam format 
 
 **(Desain_UI.png.)**
+![gambar 1](Desain-UI-final.png)
 
 🛠️ Alat yang Digunakan
 
@@ -57,6 +58,10 @@ Manajemen Proyek: ClickUp
 Desain UX/UI & Prototyping: Figma
 
 Penyimpanan Aset: GitHub
+
+---
+# Notifikasi 
+![gambar 1](notifikasi.JPG)
 
 ---
 
