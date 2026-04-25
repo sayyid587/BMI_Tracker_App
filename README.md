@@ -59,6 +59,17 @@ Desain UX/UI & Prototyping: Figma
 Penyimpanan Aset: GitHub
 
 ---
+
+# Desain UI/UX V2
+
+**Gambar UI V2**
+![gambar 1](Desain-UI-V2.png)
+
+**Vidio Prototype**
+
+
+---
+
 # Notifikasi 
 ![gambar 1](notifikasi.JPG)
 
