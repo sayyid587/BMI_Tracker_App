@@ -63,7 +63,7 @@ Penyimpanan Aset: GitHub
 # Desain UI/UX V2
 
 **Gambar UI V2**
-![gambar 1](Desain-UI-V2.png)
+![gambar 1](Desain_UI_V2.png)
 
 **Vidio Prototype**
 
