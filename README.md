@@ -66,6 +66,8 @@ Penyimpanan Aset: GitHub
 ![gambar 1](Desain_UI_V2.png)
 
 **Vidio Prototype**
+
+URL:
 [https://youtube.com/shorts/lqTNCdgBMGQ](https://youtube.com/shorts/lqTNCdgBMGQ)
 
 
